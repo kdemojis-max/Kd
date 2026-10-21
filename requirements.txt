@@ -1,3 +1,0 @@
-# Runtime dependencies used by main.py.
-pyTelegramBotAPI==4.37.1
-emoji==2.16.0
